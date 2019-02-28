@@ -1,0 +1,33 @@
+footer {
+    background-color: #20232a;
+    color: #ffffff;
+    padding: 15px 0;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+footer ul li:before {
+    content: '';
+    display: inline-block;
+    margin-top: 7px;
+    margin-right: 10px;
+    float: left;
+    width: 5px;
+    height: 5px;
+    background-color: #fff;
+}
+
+footer ul li a {
+    text-decoration: none;
+}
+
+footer ul li span {
+    color: #61dafb;
+}

@@ -1,0 +1,59 @@
+header {
+    background-color: #39cbcc;
+    border-bottom: 1px solid #39cbcc;
+    color: #fff;
+    padding: 30px 0; 
+}
+
+header .avatar-wrap {
+    width: 20%;
+    padding-right: 30px;
+    border-right: 1px solid #fff;
+    text-align: center;
+}
+
+header .intro {
+    width: 80%;
+    padding-left: 50px;
+}
+
+header .contact {
+    margin-top: 15px;
+}
+
+header .contact ul {
+    padding: 0;
+    list-style: none;
+}
+
+header .contact ul li {
+    margin-bottom: 10px;
+}
+
+header .contact span {
+    font-weight: 700;
+}
+
+header .title {
+    display: block;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+header p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.leek-avatar {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 15px;
+}
+
+header h1 {
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0;
+}
